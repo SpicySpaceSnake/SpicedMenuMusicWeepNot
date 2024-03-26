@@ -1,0 +1,15 @@
+[h1]Spiced-Up Menu Music - Weep Not, My Child 1.0.0[/h1]
+is a compatibility supplement for [url=]Spiced-Up Menu Music[/url].
+[h3]Join the Discord![/h3]
+[url=https://discord.gg/4nN8KHBY6R]My personal Discord[/url] contains categories for things that I work on. I'd recommend joining if you're interested in seeing early previews of what's being worked on.
+
+[hr][/hr]
+[h2]What music does this mod add?[/h2]
+To the base mod's playlist, this supplement adds the signature track of [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2785129570]Weep Not, My Child[/url]:
+[list]
+[*]Weep Not, My Child
+[/list]
+
+[hr][/hr]
+Thanks for taking the time to check out this mod! Be sure to rate on your way out, and share this with anyone you think might like it.
+Happy Starbounding!

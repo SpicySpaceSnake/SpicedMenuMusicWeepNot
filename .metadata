@@ -1,0 +1,12 @@
+{
+  "author" : "SpicySpaceSnake",
+  "description" : "A compatibility supplement for Spiced-Up Menu Music.",
+  "friendlyName" : "Spiced-Up Menu Music - Weep Not, My Child",
+  "link" : "",
+  "name" : "spicedMenuMusic_WeepNot",
+  "priority" : 9001,
+  "requires" : ["spicedMenuMusic", "Weep Not My Child - Title Music Addition"],
+  "steamContentId" : "",
+  "tags" : "User Interface",
+  "version" : "1.0.0"
+}

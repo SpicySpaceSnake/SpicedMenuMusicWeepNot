@@ -1,0 +1,12 @@
+[
+  {
+    "op" : "add",
+    "path" : "/music/day/tracks",
+    "value" : "/music/sb_weep-not-my-child.ogg"
+  },
+  {
+    "op" : "copy",
+    "from" : "/music/day/tracks",
+    "path" : "/music/night/tracks"
+  }
+]
