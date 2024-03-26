@@ -1,7 +1,7 @@
 [
   {
     "op" : "add",
-    "path" : "/music/day/tracks",
+    "path" : "/music/day/tracks/-",
     "value" : "/music/sb_weep-not-my-child.ogg"
   },
   {
