@@ -2,11 +2,11 @@
   "author" : "SpicySpaceSnake",
   "description" : "A compatibility supplement for Spicebound:Menu Music.",
   "friendlyName" : "Spicebound:Menu Music - Weep Not, My Child",
-  "link" : "",
+  "link" : "steam://url/CommunityFilePage/3225378807",
   "name" : "spicedMenuMusic_WeepNot",
   "priority" : 9001,
   "requires" : ["spicedMenuMusic", "Weep Not My Child - Title Music Addition"],
-  "steamContentId" : "",
+  "steamContentId" : "3225378807",
   "tags" : "User Interface",
   "version" : "1.0.0"
 }
