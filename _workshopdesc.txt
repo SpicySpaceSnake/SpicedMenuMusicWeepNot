@@ -10,6 +10,8 @@ To the base mod's playlist, this supplement adds the signature track of [url=htt
 [*]Weep Not, My Child
 [/list]
 
+[b]Betabound also comes packed with this track![/b] Avoid using this supplement or its dependency if you already have Betabound and its SpB:MM supplement installed, unless you want a duplicate track entry.
+
 [hr][/hr]
 Thanks for taking the time to check out this mod! Be sure to rate on your way out, and share this with anyone you think might like it.
 Happy Starbounding!
